@@ -12,7 +12,7 @@
         background-image: linear-gradient(to left, #000000, #8B0000);
     }
     
-    section#login {
+    section {
         width: 80vw;
     }
     
@@ -38,7 +38,7 @@
         background-image: linear-gradient(to right, #000000, #8B0000);
     }
     
-    section#login {
+    section {
         width: 95vw;    
     }
     
