@@ -39,8 +39,7 @@
     }
     
     section#login {
-        width: 95vw;
-        height: 52vh;
+        width: 95vw;    
     }
     
     section#login > div#imagem {
