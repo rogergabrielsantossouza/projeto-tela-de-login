@@ -2,6 +2,10 @@
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
     
+    html {
+        overflow-y: hidden;
+    }
+
     body {
         width: 100vw;
         height: 100vh;
@@ -9,8 +13,8 @@
     }
     
     section#login {
-        width: 80%;
-        height: 48%;
+        width: 80vw;
+        height: 48vh;
     }
     
     section#login > div#imagem {
@@ -27,13 +31,17 @@
 
 @media screen and (min-width: 992px) {
     
+    html {
+        overflow-y: hidden;
+    }
+
     body {
         background-image: linear-gradient(to right, #000000, #8B0000);
     }
     
     section#login {
-        width: 95%;
-        height: 52%;
+        width: 95vw;
+        height: 52vh;
     }
     
     section#login > div#imagem {
