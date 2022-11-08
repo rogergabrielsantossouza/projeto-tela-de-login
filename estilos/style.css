@@ -83,7 +83,7 @@ form > div.campo > i {
     font-size: 2em;
     width: 40px;
     padding: 5px;
-    transform: translateY(-6px);
+    transform: translateY(-8px);
 }
 
 form > div.campo > input {
